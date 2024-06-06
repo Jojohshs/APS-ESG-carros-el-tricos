@@ -1,0 +1,105 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+}
+
+.navbar {
+    width: 100%;
+    height: 80px;
+    
+    padding: 0 rem;
+    margin-bottom: 100px;}
+
+.navbar-itens {
+    position: absolute;
+    right: 0;
+    height: 60px;
+    gap: 5px;
+    margin-left: 0;
+    display: inline-block;}
+    
+    nav {
+        position: relative;
+      }
+      
+      .logo {
+        width: 50px;
+        margin-top: 15px;
+        height: 50px;
+      }
+      
+      .navbar-items {
+        position: absolute;
+        right: 0;
+        height: 60px;
+       gap: 5px;
+        margin-left: 0;
+        display: inline-block;
+    
+       
+      }
+      
+      .navbar-items li {
+        display: inline-block;
+        text-transform: uppercase;
+        margin-left: 20px;
+      
+      }
+      
+      .navbar-items a {
+        color: white;
+        text-decoration: none;
+        transition: 0.5s;
+        margin-right: 10px;
+      
+      }
+      
+      .navbar-items a:hover {
+        color: green;
+      }
+
+      
+.cards-container {
+  margin: 15px;
+  padding: 10px;
+  width: 230px;
+  border-radius: 0px 0px 10px 10px;
+  
+  
+  
+  
+      
+  
+  
+  }
+  
+  
+      
+  
+  
+  .cards-container {
+      font-size: 16px;
+      
+      border: 2px solid black;
+  
+  
+      
+     
+  }
+  
+  .titulo-card {
+      font-weight: 400;
+      text-align: center;
+      padding-right: 60px;
+      padding-bottom: 10px;
+  
+  }
+  
+  p {
+      margin-bottom: 5px;
+      margin-top: 0px;
+      margin-left: 5px;
+  }
+  
+  
